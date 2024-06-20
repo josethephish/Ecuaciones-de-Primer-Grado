@@ -1,0 +1,10 @@
+equation_solver/
+├── src/
+│   ├── __init__.py
+│   ├── equation_parser.py
+│   └── solver.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_equation_parser.py
+│   └── test_solver.py
+└── requirements.txt
